@@ -3,3 +3,15 @@ img {
 }
 
 /* Your code here */
+
+@keyframes {
+    0%{
+        background-color: white 
+    }
+    50%{
+        background 
+    }
+    100%{
+
+    }
+}
